@@ -49,3 +49,14 @@ C:\Users\souri\Desktop\My SDPM Project\CurrencyProject-SDPM-Azure\CurrencyClient
 C:\Users\souri\Documents\GitHub\YourCurrencyClient\CurrencyClient\bin\Debug\CurrencyClient.exe.config
 C:\Users\souri\Documents\GitHub\YourCurrencyClient\CurrencyClient\obj\Debug\CurrencyClient.exe
 C:\Users\souri\Documents\GitHub\YourCurrencyClient\CurrencyClient\obj\Debug\CurrencyClient.pdb
+C:\Users\souri\Documents\GitHub\YourCurrencyClient\CurrencyClient\bin\Debug\CurrencyClient.exe.manifest
+C:\Users\souri\Documents\GitHub\YourCurrencyClient\CurrencyClient\bin\Debug\CurrencyClient.application
+C:\Users\souri\Documents\GitHub\YourCurrencyClient\CurrencyClient\bin\Debug\CurrencyClient.exe
+C:\Users\souri\Documents\GitHub\YourCurrencyClient\CurrencyClient\bin\Debug\CurrencyClient.pdb
+C:\Users\souri\Documents\GitHub\YourCurrencyClient\CurrencyClient\bin\Debug\Newtonsoft.Json.dll
+C:\Users\souri\Documents\GitHub\YourCurrencyClient\CurrencyClient\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\souri\Documents\GitHub\YourCurrencyClient\CurrencyClient\bin\Debug\Newtonsoft.Json.xml
+C:\Users\souri\Documents\GitHub\YourCurrencyClient\CurrencyClient\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\souri\Documents\GitHub\YourCurrencyClient\CurrencyClient\obj\Debug\CurrencyClient.csprojResolveAssemblyReference.cache
+C:\Users\souri\Documents\GitHub\YourCurrencyClient\CurrencyClient\obj\Debug\CurrencyClient.exe.manifest
+C:\Users\souri\Documents\GitHub\YourCurrencyClient\CurrencyClient\obj\Debug\CurrencyClient.application
