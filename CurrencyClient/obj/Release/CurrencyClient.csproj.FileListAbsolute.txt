@@ -1,0 +1,14 @@
+C:\Users\souri\Desktop\My SDPM Project\CurrencyProject-SDPM\CurrencyClient\CurrencyClient\obj\Release\CurrencyClient.csprojResolveAssemblyReference.cache
+C:\Users\souri\Desktop\My SDPM Project\CurrencyProject-SDPM\CurrencyClient\CurrencyClient\obj\Release\CurrencyClient.exe
+C:\Users\souri\Desktop\My SDPM Project\CurrencyProject-SDPM\CurrencyClient\CurrencyClient\obj\Release\CurrencyClient.pdb
+C:\Users\souri\Desktop\My SDPM Project\CurrencyProject-SDPM\CurrencyClient\CurrencyClient\bin\Release\CurrencyClient.exe.config
+C:\Users\souri\Desktop\My SDPM Project\CurrencyProject-SDPM\CurrencyClient\CurrencyClient\bin\Release\CurrencyClient.exe.manifest
+C:\Users\souri\Desktop\My SDPM Project\CurrencyProject-SDPM\CurrencyClient\CurrencyClient\bin\Release\CurrencyClient.application
+C:\Users\souri\Desktop\My SDPM Project\CurrencyProject-SDPM\CurrencyClient\CurrencyClient\bin\Release\CurrencyClient.exe
+C:\Users\souri\Desktop\My SDPM Project\CurrencyProject-SDPM\CurrencyClient\CurrencyClient\bin\Release\CurrencyClient.pdb
+C:\Users\souri\Desktop\My SDPM Project\CurrencyProject-SDPM\CurrencyClient\CurrencyClient\bin\Release\Newtonsoft.Json.dll
+C:\Users\souri\Desktop\My SDPM Project\CurrencyProject-SDPM\CurrencyClient\CurrencyClient\bin\Release\System.Net.Http.Formatting.dll
+C:\Users\souri\Desktop\My SDPM Project\CurrencyProject-SDPM\CurrencyClient\CurrencyClient\bin\Release\Newtonsoft.Json.xml
+C:\Users\souri\Desktop\My SDPM Project\CurrencyProject-SDPM\CurrencyClient\CurrencyClient\bin\Release\System.Net.Http.Formatting.xml
+C:\Users\souri\Desktop\My SDPM Project\CurrencyProject-SDPM\CurrencyClient\CurrencyClient\obj\Release\CurrencyClient.exe.manifest
+C:\Users\souri\Desktop\My SDPM Project\CurrencyProject-SDPM\CurrencyClient\CurrencyClient\obj\Release\CurrencyClient.application

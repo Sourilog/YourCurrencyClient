@@ -1,0 +1,48 @@
+G:\project\asp site\WeatherExample\CurrencyClient\WeatherClient\bin\Debug\CurrencyClient.exe.config
+G:\project\asp site\WeatherExample\CurrencyClient\CurrencyClient\bin\Debug\CurrencyClient.exe.config
+G:\project\asp site\WeatherExample\CurrencyClient\CurrencyClient\bin\Debug\CurrencyClient.exe
+G:\project\asp site\WeatherExample\CurrencyClient\CurrencyClient\bin\Debug\CurrencyClient.pdb
+G:\project\asp site\WeatherExample\CurrencyClient\CurrencyClient\bin\Debug\Newtonsoft.Json.dll
+G:\project\asp site\WeatherExample\CurrencyClient\CurrencyClient\bin\Debug\System.Net.Http.Formatting.dll
+G:\project\asp site\WeatherExample\CurrencyClient\CurrencyClient\bin\Debug\Newtonsoft.Json.xml
+G:\project\asp site\WeatherExample\CurrencyClient\CurrencyClient\bin\Debug\System.Net.Http.Formatting.xml
+G:\project\asp site\WeatherExample\CurrencyClient\CurrencyClient\obj\Debug\CurrencyClient.exe
+G:\project\asp site\WeatherExample\CurrencyClient\CurrencyClient\obj\Debug\CurrencyClient.pdb
+G:\project\asp site\WeatherExample\CurrencyClient\CurrencyClient\obj\Debug\CurrencyClient.csprojResolveAssemblyReference.cache
+G:\project\asp site\CurrencyProject\CurrencyProject\CurrencyClient\CurrencyClient\bin\Debug\CurrencyClient.exe.config
+G:\project\asp site\CurrencyProject\CurrencyProject\CurrencyClient\CurrencyClient\obj\Debug\CurrencyClient.exe
+G:\project\asp site\CurrencyProject\CurrencyProject\CurrencyClient\CurrencyClient\obj\Debug\CurrencyClient.pdb
+G:\project\asp site\CurrencyProject\CurrencyProject\CurrencyClient\CurrencyClient\bin\Debug\CurrencyClient.exe
+G:\project\asp site\CurrencyProject\CurrencyProject\CurrencyClient\CurrencyClient\bin\Debug\CurrencyClient.pdb
+G:\project\asp site\CurrencyProject\CurrencyProject\CurrencyClient\CurrencyClient\bin\Debug\Newtonsoft.Json.dll
+G:\project\asp site\CurrencyProject\CurrencyProject\CurrencyClient\CurrencyClient\bin\Debug\System.Net.Http.Formatting.dll
+G:\project\asp site\CurrencyProject\CurrencyProject\CurrencyClient\CurrencyClient\bin\Debug\Newtonsoft.Json.xml
+G:\project\asp site\CurrencyProject\CurrencyProject\CurrencyClient\CurrencyClient\bin\Debug\System.Net.Http.Formatting.xml
+G:\project\asp site\CurrencyProject\CurrencyProject\CurrencyClient\CurrencyClient\obj\Debug\CurrencyClient.csprojResolveAssemblyReference.cache
+C:\Users\souri\Desktop\My SDPM Project\CurrencyProject-SDPM\CurrencyClient\CurrencyClient\bin\Debug\CurrencyClient.exe.config
+C:\Users\souri\Desktop\My SDPM Project\CurrencyProject-SDPM\CurrencyClient\CurrencyClient\obj\Debug\CurrencyClient.exe
+C:\Users\souri\Desktop\My SDPM Project\CurrencyProject-SDPM\CurrencyClient\CurrencyClient\obj\Debug\CurrencyClient.pdb
+C:\Users\souri\Desktop\My SDPM Project\CurrencyProject-SDPM\CurrencyClient\CurrencyClient\bin\Debug\CurrencyClient.exe
+C:\Users\souri\Desktop\My SDPM Project\CurrencyProject-SDPM\CurrencyClient\CurrencyClient\bin\Debug\CurrencyClient.pdb
+C:\Users\souri\Desktop\My SDPM Project\CurrencyProject-SDPM\CurrencyClient\CurrencyClient\bin\Debug\Newtonsoft.Json.dll
+C:\Users\souri\Desktop\My SDPM Project\CurrencyProject-SDPM\CurrencyClient\CurrencyClient\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\souri\Desktop\My SDPM Project\CurrencyProject-SDPM\CurrencyClient\CurrencyClient\bin\Debug\Newtonsoft.Json.xml
+C:\Users\souri\Desktop\My SDPM Project\CurrencyProject-SDPM\CurrencyClient\CurrencyClient\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\souri\Desktop\My SDPM Project\CurrencyProject-SDPM\CurrencyClient\CurrencyClient\bin\Debug\CurrencyClient.exe.manifest
+C:\Users\souri\Desktop\My SDPM Project\CurrencyProject-SDPM\CurrencyClient\CurrencyClient\bin\Debug\CurrencyClient.application
+C:\Users\souri\Desktop\My SDPM Project\CurrencyProject-SDPM\CurrencyClient\CurrencyClient\obj\Debug\CurrencyClient.exe.manifest
+C:\Users\souri\Desktop\My SDPM Project\CurrencyProject-SDPM\CurrencyClient\CurrencyClient\obj\Debug\CurrencyClient.application
+C:\Users\souri\Desktop\My SDPM Project\CurrencyProject-SDPM-Azure\CurrencyClient\CurrencyClient\bin\Debug\CurrencyClient.exe.config
+C:\Users\souri\Desktop\My SDPM Project\CurrencyProject-SDPM-Azure\CurrencyClient\CurrencyClient\obj\Debug\CurrencyClient.exe
+C:\Users\souri\Desktop\My SDPM Project\CurrencyProject-SDPM-Azure\CurrencyClient\CurrencyClient\obj\Debug\CurrencyClient.pdb
+C:\Users\souri\Desktop\My SDPM Project\CurrencyProject-SDPM-Azure\CurrencyClient\CurrencyClient\bin\Debug\CurrencyClient.exe.manifest
+C:\Users\souri\Desktop\My SDPM Project\CurrencyProject-SDPM-Azure\CurrencyClient\CurrencyClient\bin\Debug\CurrencyClient.application
+C:\Users\souri\Desktop\My SDPM Project\CurrencyProject-SDPM-Azure\CurrencyClient\CurrencyClient\bin\Debug\CurrencyClient.exe
+C:\Users\souri\Desktop\My SDPM Project\CurrencyProject-SDPM-Azure\CurrencyClient\CurrencyClient\bin\Debug\CurrencyClient.pdb
+C:\Users\souri\Desktop\My SDPM Project\CurrencyProject-SDPM-Azure\CurrencyClient\CurrencyClient\bin\Debug\Newtonsoft.Json.dll
+C:\Users\souri\Desktop\My SDPM Project\CurrencyProject-SDPM-Azure\CurrencyClient\CurrencyClient\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\souri\Desktop\My SDPM Project\CurrencyProject-SDPM-Azure\CurrencyClient\CurrencyClient\bin\Debug\Newtonsoft.Json.xml
+C:\Users\souri\Desktop\My SDPM Project\CurrencyProject-SDPM-Azure\CurrencyClient\CurrencyClient\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\souri\Desktop\My SDPM Project\CurrencyProject-SDPM-Azure\CurrencyClient\CurrencyClient\obj\Debug\CurrencyClient.csprojResolveAssemblyReference.cache
+C:\Users\souri\Desktop\My SDPM Project\CurrencyProject-SDPM-Azure\CurrencyClient\CurrencyClient\obj\Debug\CurrencyClient.exe.manifest
+C:\Users\souri\Desktop\My SDPM Project\CurrencyProject-SDPM-Azure\CurrencyClient\CurrencyClient\obj\Debug\CurrencyClient.application
