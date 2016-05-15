@@ -46,3 +46,6 @@ C:\Users\souri\Desktop\My SDPM Project\CurrencyProject-SDPM-Azure\CurrencyClient
 C:\Users\souri\Desktop\My SDPM Project\CurrencyProject-SDPM-Azure\CurrencyClient\CurrencyClient\obj\Debug\CurrencyClient.csprojResolveAssemblyReference.cache
 C:\Users\souri\Desktop\My SDPM Project\CurrencyProject-SDPM-Azure\CurrencyClient\CurrencyClient\obj\Debug\CurrencyClient.exe.manifest
 C:\Users\souri\Desktop\My SDPM Project\CurrencyProject-SDPM-Azure\CurrencyClient\CurrencyClient\obj\Debug\CurrencyClient.application
+C:\Users\souri\Documents\GitHub\YourCurrencyClient\CurrencyClient\bin\Debug\CurrencyClient.exe.config
+C:\Users\souri\Documents\GitHub\YourCurrencyClient\CurrencyClient\obj\Debug\CurrencyClient.exe
+C:\Users\souri\Documents\GitHub\YourCurrencyClient\CurrencyClient\obj\Debug\CurrencyClient.pdb
